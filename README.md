@@ -21,4 +21,8 @@ These scripts are derivatives of other scripters' work, and thus, on top of the 
 These scripts are free to use in your RPG Maker games however you'd like, and no credit is required. Have fun!
 
 # Compatibility
-These scripts were written for RPG Maker XP running on the MXKP engine, which utilizes Ruby 3. The original RGSS for RPG Maker XP was Ruby 1.8, so there will likely be some compatibility issues if you attempt to plug-and-play into your project. I will provide some details on this where applicable, but there is no guarantee of their compatibility.
+Some of these scripts were written for RPG Maker XP running on the MXKP engine, which utilizes Ruby 3. They are tagged with `[RUBY3]`.
+
+The original RGSS for RPG Maker XP was Ruby 1.8, so there will likely be some compatibility issues if you attempt to plug-and-play them into your project. I will provide some details on this where applicable, but there is no guarantee of their compatibility.
+
+Otherwise, the scripts should work fine in any project, with detailed compatibility information written in the header of each script where applicable.
