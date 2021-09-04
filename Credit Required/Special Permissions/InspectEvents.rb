@@ -2,8 +2,8 @@
 #==============================================================================
 # Inspect Events
 # ---
-# Authors: JaidenAlemni, KK20
-# 
+# Authors: Jaiden Alemni, KK20
+# https://github.com/JaidenAlemni/rmxp-scripts
 #
 # [Special Permissions]
 # KK20 was a collaborator on this script. Please be sure to credit them 

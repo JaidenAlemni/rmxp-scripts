@@ -1,8 +1,9 @@
 #==============================================================================
 # Extra Fogs & Panorama Lock
 # ---
-# Author: JaidenAlemni
-# 
+# Author: Jaiden Alemni
+# https://github.com/JaidenAlemni/rmxp-scripts
+# --------------------------------------------------------------------------- 
 # v1.0 - September 2019
 # * Allows for an additional fog, which is per map instead of per tileset
 # * Allows a panorama to lock so it doesn't scroll, allowing it to be used

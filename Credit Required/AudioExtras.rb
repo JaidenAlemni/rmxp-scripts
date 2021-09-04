@@ -2,8 +2,8 @@
 #==============================================================================
 # Audio Extras [+Additional Features with XPA]
 # ---
-# Author: JaidenAlemni
-# 
+# Author: Jaiden Alemni
+# https://github.com/JaidenAlemni/rmxp-scripts
 # --------------------------------------------------------------------------- 
 # Version 1.3 - Sep 3rd, 2021
 #   - Fixed some bugs and made available via Github.
