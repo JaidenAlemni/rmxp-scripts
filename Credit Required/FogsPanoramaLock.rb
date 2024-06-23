@@ -45,6 +45,9 @@ module CustomFogsPanorama
     ADD = 1
     SUB = 2
     #--------------------------------------------------------------------------
+    # List of map IDs, or put [] if you do not want to use this feature
+    LOCK_PANORAMA_IDS = [1, 2, 3]
+    #--------------------------------------------------------------------------
     def self.fogs(map_id)
       case map_id
       #==============================================================================
