@@ -3,7 +3,7 @@ A collection of scripts I've worked on for RPG Maker XP that I've decided to mak
 
 **Please note that all scripts in this repository are provided with absolutely no warranty. Please use them at your own risk, and I am not liable for any file corruption or other issues you may run into from using these scripts.**
 
-You are welcome to report issues, and I will look into fixing them. However, I will not be providing support for compatibility in certain projects, etc.
+You can report issues, but I'm rather busy so I will only really be able to fix them if I have free time. I also do not provide support for compatibility in specific projects, feature requests, etc.
 
 # Terms of Use
 The scripts here are divided into directories, please be aware of their usage permission and/or license before using them. It is assumed that all of these scripts reference RPG Maker's code in some way, and thus can only be used within the RPG Maker engine.
@@ -18,7 +18,7 @@ The scripts in this directory can be used in commercial or free projects, so lon
 These scripts are derivatives of other scripters' work, and thus, on top of the requirements above, require credit to be given to those scripters. Please be sure those scripter's crediting requirements are fulfilled before using the script in your project, commercially or free.
 
 ## Free to Use
-These scripts are free to use in your RPG Maker games however you'd like, and no credit is required. Have fun!
+These scripts are free to use in your RPG Maker games however you'd like, and no credit is required. This likely means I wrote them quite a long time ago, and may have bugs or other issues. But otherwise, have fun!
 
 # Compatibility
 Some of these scripts were written for RPG Maker XP running on the MXKP engine, which utilizes Ruby 3. They are tagged with `[RUBY3]`.
